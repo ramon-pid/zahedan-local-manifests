@@ -8,7 +8,7 @@
         path="device/daria/zahedan-unified"
         name="device_daria_zahedan"
         remote="daria-community"
-        revision="Itis_Sajjad/testing/crDroid-15-qpr2" />
+        revision="itisFarzin/testing/lineage-23.0" />
 
     <project
         path="vendor/daria/zahedan"
@@ -20,7 +20,7 @@
         path="kernel/daria/mt6877"
         name="kernel_daria_mt6877"
         remote="daria-community"
-        revision="itisFarzin/testing/lineage-23.0" />
+        revision="fifteen-qpr2" />
 
     <project
         path="device/mediatek/sepolicy_vndr"
