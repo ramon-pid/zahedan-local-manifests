@@ -8,7 +8,7 @@
     path="device/daria/zahedan"
     name="device_daria_zahedan"
     remote="daria-community"
-    revision="itisFarzin/testing/lineage-23.0" />
+    revision="Itis_Sajjad/testing/lineage-22.2" />
 
     <project
         path="vendor/daria/zahedan"
