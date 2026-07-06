@@ -5,7 +5,7 @@
     <remote name="lineage" fetch="https://github.com/LineageOS" />
 
     <project
-    path="device/daria/zahedan"
+    path="device/daria/zahedan-unified"
     name="device_daria_zahedan"
     remote="daria-community"
     revision="Itis_Sajjad/testing/lineage-22.2" />
