@@ -18,9 +18,9 @@
 
     <project
         path="kernel/daria/mt6877"
-        name="kernel_daria_mt6877"
-        remote="sajjad85gh"
-        revision="fifteen-qpr2" />
+        name="kernel_volla_mt6877"
+        remote="daria-community"
+        revision="lineage-23.0" />
 
     <project
         path="device/mediatek/sepolicy_vndr"
