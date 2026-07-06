@@ -5,10 +5,10 @@
     <remote name="lineage" fetch="https://github.com/LineageOS" />
 
     <project
-        path="device/daria/zahedan-unified"
-        name="device_daria_zahedan"
-        remote="daria-community"
-        revision="itisFarzin/testing/lineage-23.0" />
+    path="device/daria/zahedan"
+    name="device_daria_zahedan"
+    remote="daria-community"
+    revision="itisFarzin/testing/lineage-23.0" />
 
     <project
         path="vendor/daria/zahedan"
