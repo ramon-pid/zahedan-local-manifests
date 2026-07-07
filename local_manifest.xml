@@ -3,6 +3,7 @@
     <remote name="daria-community" fetch="https://github.com/daria-community" />
     <remote name="sajjad85gh" fetch="https://github.com/sajjad85gh" />
     <remote name="lineage" fetch="https://github.com/LineageOS" />
+    <remote name="lmodroid-devices" fetch="https://git.libremobileos.com/LMODroid-Devices" />
 
     <project
     path="device/daria/zahedan-unified"
@@ -18,9 +19,9 @@
 
     <project
         path="kernel/daria/mt6877"
-        name="kernel_volla_mt6877"
-        remote="daria-community"
-        revision="lineage-23.0" />
+        name="kernel_daria_mt6877"
+        remote="lmodroid-devices"
+        revision="fifteen-qpr2" />
 
     <project
         path="device/mediatek/sepolicy_vndr"
